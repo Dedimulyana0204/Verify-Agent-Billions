@@ -8,6 +8,7 @@ Panduan ini akan membimbing kamu langkah demi langkah untuk melakukan verifikasi
 
 Sebelum memulai, pastikan kamu memiliki:
 
+
 - Akun **GitHub** yang aktif
 - Akun **Billions Network** yang sudah terdaftar
 - Browser (Chrome / Kiwi / Mises)
@@ -33,15 +34,14 @@ Gunakan format nama file:
 
 ```
 
-nama-anda.json
-
+nama-anda.js
 ```
 
 Contoh:
 
 ```
 
-bang-pateng.json
+dedimulyana0204.json
 
 ````
 
@@ -49,7 +49,7 @@ Isi file:
 
 ```json
 {
-  "identity": "Nama_Agen_Kamu",
+  "identity": "dedimulyana",
   "agent": "Billions"
 }
 ````
@@ -58,7 +58,7 @@ Contoh:
 
 ```json
 {
-  "identity": "Bang Pateng",
+  "identity": "dedimulyana0204,
   "agent": "Billions"
 }
 ```
